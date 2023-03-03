@@ -39,7 +39,7 @@
     "chai-diff": "^1.0.1",
     "concurrently": "^5.0.0",
     "dirty-chai": "^2.0.1",
-    "dustjs-linkedin": "^2.0.2",
+    "dustjs-linkedin": "^3.0.0",
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-compat": "4.0",
